@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusscriptoru03berlgoog_0417.png"; bbox 0 0 683 1190; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 106 228 660 282">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 106 228 660 282">
+     <span class='ocr_line' id='line_1_1' title="bbox 106 228 660 282; baseline 0.004 -29"><span class='ocrx_word' id='word_1_1' title='bbox 106 265 126 282; x_wconf 51' lang='lat' dir='ltr'><em>,a</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 175 230 214 248; x_wconf 55' lang='grc' dir='ltr'><em>ιω</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 225 231 254 269; x_wconf 71' lang='grc' dir='ltr'><em>ιιιιι</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 266 231 294 253; x_wconf 55' lang='lat' dir='ltr'><em>ene</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 307 228 660 256; x_wconf 57' lang='lat' dir='ltr'><em>m÷·2amm·mu1u÷m⁴</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 110 367 173 382">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 110 367 173 382">
+     <span class='ocr_line' id='line_1_2' title="bbox 110 367 173 382; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 110 376 114 378; x_wconf 91' lang='lat'><em>-</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 154 367 173 382; x_wconf 60' lang='lat' dir='ltr'><em>§b</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
